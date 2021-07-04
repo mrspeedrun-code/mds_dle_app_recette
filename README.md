@@ -23,9 +23,9 @@ yarn start
 ```
 
 ## Tech
--[React Native] <https://reactnative.dev>
--[react-navigation] <https://reactnavigation.org>
--[axios] <https://github.com/axios/axios>
--[react-redux] <https://react-redux.js.org>
--[react-thunk] <https://github.com/reduxjs/redux-thunk>
--[styled-components] <https://styled-components.com>
+- [React Native] <https://reactnative.dev>
+- [react-navigation] <https://reactnavigation.org>
+- [axios] <https://github.com/axios/axios>
+- [react-redux] <https://react-redux.js.org>
+- [react-thunk] <https://github.com/reduxjs/redux-thunk>
+- [styled-components] <https://styled-components.com>
