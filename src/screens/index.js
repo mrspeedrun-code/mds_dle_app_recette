@@ -1,3 +1,4 @@
-import RecipeScreen from './recipeList'
+import RecipeScreen from './recipesList'
+import RecipeDetailScreen from './recipeDetail'
 
-export {RecipeScreen}
+export { RecipeScreen, RecipeDetailScreen }

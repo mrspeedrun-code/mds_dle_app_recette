@@ -1,1 +1,0 @@
-export const UPDATE_RECIPES = 'update_recipes';
