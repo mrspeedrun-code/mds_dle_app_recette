@@ -8,7 +8,7 @@ Ceci est un projet d'école dans le cadre de la pratique de redux:
 - Définir des reducers contenant l'ancien état et l'action envoyée, elle permet de gérer les changements d'état d'une application.
 - Définir des actions permettant le transport d'une charge utile d'informations de l'application à stocker.
 
-Ce projet consiste à mettre en place la navigation entre une liste de recette et les détails des recettes, tout en gérant les states globales applicative avec l'outil redux.
+Ce projet consiste à mettre en place la navigation entre une liste de recette et les détails des recettes, tout en gérant les states globales applicative avec l'outil redux en utilisant les données proventant de l'api spoonacular (limités à 150 requêtes par jour).
 
 ## Installation
 
@@ -29,3 +29,4 @@ yarn start
 - [react-redux] <https://react-redux.js.org>
 - [react-thunk] <https://github.com/reduxjs/redux-thunk>
 - [styled-components] <https://styled-components.com>
+- [sponnacular API] <https://spoonacular.com/food-api>
